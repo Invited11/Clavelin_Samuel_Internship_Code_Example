@@ -32,6 +32,6 @@
 
  
 
-"I am sorry for comments in French in my algorithms, I didn’t have the time to correct all.
+#I am sorry for comments in French in my algorithms, I didn’t have the time to correct all.
 
 #And none of these algorithms are optimized, it wasn’t the goal of the first three semesters. But next semester we will learn optimization in HPC.
